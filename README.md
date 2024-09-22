@@ -1,7 +1,7 @@
 <div align="center"><br>
 Formado em Eletroeletrônica na instituição <a href="https://sor.ifsp.edu.br/" target="blank">IFSP</a> (2018 - 2020) 
   <br><br>
-Estudante de Análise e Desenvolvimento de Sistemas na instituição <a href="http://fatecsorocaba.edu.br" target="_blank">Fatec Sorocaba</a> (2021 - 2024)
+Formado em Análise e Desenvolvimento de Sistemas na instituição <a href="http://fatecsorocaba.edu.br" target="_blank">Fatec Sorocaba</a> (2021 - 2024)
 </div>
 
 <br><br>
